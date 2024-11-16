@@ -1,3 +1,4 @@
 # Necromanser
 
 hello world
+print
