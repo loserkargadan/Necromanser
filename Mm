@@ -1,4 +1,4 @@
 print
 hello 
   ()
-test net
+test net we
