@@ -1,4 +1,4 @@
-print
+print (,)
 hello world
   ()
 test net we
