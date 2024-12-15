@@ -3,4 +3,4 @@ hello world
   ()
 test nexus net we
 print (hello) (,) 
-if
+if (.)
