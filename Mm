@@ -1,4 +1,4 @@
-print (,) if () 
+print (,) if () of 
 hello world
   ()
 test nexus net we
