@@ -1,5 +1,5 @@
 print (,) if () of 
-hello world
+print hello world
   ()
 test nexus net we
 print (hello) (,) 
