@@ -1,3 +1,4 @@
+#new plat
 print (,) if () of 
 print hello world
   ()
