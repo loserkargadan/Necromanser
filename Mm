@@ -1,4 +1,4 @@
-#new platform
+#new platform img
 print (,) if () of 
 print hello world
   ()
